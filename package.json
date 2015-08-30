@@ -22,6 +22,7 @@
     "url": "git://github.com/ryankee/concrete.git"
   },
   "dependencies": {
+    "svn": "0.2.0",
     "colors": "0.6.x",
     "coffee-script": "1.2.x",
     "optimist": "0.3.x",
